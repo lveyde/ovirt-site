@@ -28,6 +28,14 @@ This is the oVirt Node 4.3 image including the latest oVirt 4.3 packages. This i
 
 * [Installation ISO (4.3.9 based on el7)](https://resources.ovirt.org/pub/ovirt-4.3/iso/ovirt-node-ng-installer/4.3.9-2020031917/el7/ovirt-node-ng-installer-4.3.9-2020031917.el7.iso)
 
+
+## oVirt Node 4.4 - Stable Release
+
+This is the oVirt Node 4.4 image including the latest oVirt 4.4 packages. This is the latest stable release.
+
+* [Installation ISO (4.4.0 based on el8)](https://resources.ovirt.org/pub/ovirt-4.4/iso/ovirt-node-ng-installer/4.4.0-2020052110/el8/ovirt-node-ng-installer-4.4.0-2020052110.el8.iso)
+
+
 ## oVirt Node 4.4 - Pre Release
 
 This is the oVirt Node 4.4 pre release image including the latest oVirt 4.4 pre release packages.
